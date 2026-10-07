@@ -1,5 +1,5 @@
 <img
-  alt="U got rick rolled."
+  alt="U got rick rolled. Thks poteto for this idea, https://github.com/poteto/poteto ."
   src="nice.gif"
   width="100%"
 />
