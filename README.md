@@ -1,4 +1,8 @@
-![GitHub contribution snake](nice.gif)
+<img
+  alt="U got rick rolled."
+  src="nice.gif"
+  width="100%"
+/>
 
 <!-- To switch back to the SVG version, remove the GIF above and uncomment this block.
 <picture>
